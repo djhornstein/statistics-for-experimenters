@@ -1,2 +1,2 @@
-# statistiscs-for-experimenters
+# statistics-for-experimenters
 my learning journey through the book
